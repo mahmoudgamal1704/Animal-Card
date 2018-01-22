@@ -1,0 +1,44 @@
+
+.card{
+	background-color: orange;
+	width: 330px;
+	box-shadow: 5px 5px 5px #d3d3c9;
+	border-radius: 5px;
+	border: 1px solid black;
+	margin: auto;
+}
+.name {
+	margin: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-left: 15px;
+}
+.image {
+	margin: 15px;
+	border: 1px solid black;
+	border-radius: 5px;
+
+}
+.bottom{
+	background-color: white;
+	border: 1px solid black;
+
+	margin: 10px;
+	border-radius: 5px;
+}
+.fact {
+	font-style: italic;
+	font-size: 1em;
+	padding-left  : 10px
+}
+.details{
+	list-style: none;
+	padding-left:  15px;
+}
+.item {
+	font-weight: bold;
+}
+.explain{
+	padding-left:  10px;
+
+}
